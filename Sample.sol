@@ -15,5 +15,6 @@ contract Sample{
   int Intvalue1 = -5; //every statment would complete with a semicolon.
   bool Flag = false;  // boolean type which can hold true / false conditions.
   
-  
+
+//
 }
